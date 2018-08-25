@@ -8,14 +8,13 @@ import org.apache.hadoop.ipc.RPC;
 import org.apache.hadoop.ipc.RPC.Server;
 
 /**
- * 
  * RPC Server
  * 实现RPCService
  * 
  * @author ManMin
+ * @date   2018年8月25日 下午10:39:54
  *
  */
-
 public class RPCServer implements RPCService {
 
 	public static void main(String[] args) throws HadoopIllegalArgumentException, IOException {

@@ -10,9 +10,9 @@ import org.apache.hadoop.ipc.RPC;
  * RPC Client
  * 
  * @author ManMin
+ * @date   2018年8月25日 下午10:39:36
  *
  */
-
 public class RPCClient {
 
 	public static void main(String[] args) throws IOException {
