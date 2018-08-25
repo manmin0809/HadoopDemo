@@ -20,9 +20,9 @@ import org.junit.Test;
  * HDFS API
  * 
  * @author ManMin
+ * @date   2018年8月25日 下午10:37:31
  *
  */
-
 public class HdfsApi {
 
 	private FileSystem fileSystem = null;
